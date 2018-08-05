@@ -21,5 +21,6 @@ public class DayPlan {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
+    private String test;
 
 }
